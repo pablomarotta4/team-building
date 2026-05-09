@@ -1,0 +1,9 @@
+{
+  "name": "team-building",
+  "version": "0.1.0",
+  "description": "Orchestrate specialist agents to execute implementation plans, with pre-flight validation.",
+  "author": {
+    "name": "Pablo Marotta"
+  },
+  "license": "MIT"
+}

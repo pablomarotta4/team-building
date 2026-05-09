@@ -1,0 +1,23 @@
+{
+  "name": "team-building-marketplace",
+  "owner": {
+    "name": "Pablo Marotta"
+  },
+  "metadata": {
+    "description": "Self-contained marketplace for the team-building plugin.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "team-building",
+      "source": "./",
+      "description": "Orchestrate specialist agents to execute implementation plans, with pre-flight validation and bundled generic fallbacks.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Pablo Marotta"
+      },
+      "category": "development",
+      "keywords": ["team", "orchestration", "agents", "plan", "preflight"]
+    }
+  ]
+}
